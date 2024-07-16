@@ -1,0 +1,3 @@
+env name: LittleLemon-EiDAsYNY 
+
+Virtualenv location: C:\Users\muhar\.virtualenvs\LittleLemon-EiDAsYNY   
